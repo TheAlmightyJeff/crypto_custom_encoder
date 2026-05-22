@@ -128,4 +128,4 @@ if __name__ == "__main__":
 ```
 
 ## Flag
-`HTB{m1nim4l_0bfusc4ti0n_is_n0t_3n0ugh}`
+`HTB{PYTH0N_D3C0DING_IS_FUN}`
