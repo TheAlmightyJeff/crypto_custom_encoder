@@ -1,6 +1,6 @@
 ![img](assets/banner.png)
 
-<img src='assets/htb.png' style='zoom: 80%;' align=left /> <font size='10'>Custom Encoder</font>
+<img src='assets/htb.png' style='zoom: 50%;' align=left /> <font size='10'>Custom Encoder</font>
 
 22<sup>nd</sup> May 2026
 
